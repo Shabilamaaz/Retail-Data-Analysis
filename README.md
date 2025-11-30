@@ -31,7 +31,11 @@ This project analyzes the Superstore dataset using Python. It includes data clea
 1. Install required libraries:
    ```bash
    pip install pandas matplotlib seaborn
+   ```
 
 2. Run the analysis script:
    ```bash
    python analysis.py
+   ```
+
+
